@@ -11,10 +11,12 @@ _Note that bot requires AI BotKill server where it connects to_
 
 3. Add config.json file with the following content:
 
+	```
 	{
 		"teamId":"<your team GUID>",
 		"server":"ws://server:port/"
 	}
+	```
 	
 3. Start your bot:
 
